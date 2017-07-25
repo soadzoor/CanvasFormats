@@ -1,4 +1,4 @@
-var imageMimes = ['image/png', 'image/bmp', 'image/gif', 'image/jpeg', 'image/webp', 'image/tiff', 'image/x-tiff', 'image/x-icon']; //Extend as necessary 
+var imageMimes = ['image/png', 'image/bmp', 'image/gif', 'image/jpeg', 'image/webp', 'image/tiff', 'image/x-tiff', 'image/x-icon', 'image/x-tga', 'image/x-targa']; //Extend as necessary 
 var acceptedMimes = new Array();
 var canvas = document.createElement('canvas');
 
